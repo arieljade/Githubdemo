@@ -1,12 +1,17 @@
 Pizza
 Bread
-Cheese
-Cake
+
 Chocolate
 Popcorn
 Potatoes
 Crisps
 
+
 Nutella
 Cucumbers
 Eggs
+
+Soup
+Baked potatoes
+BBQ lentils
+
