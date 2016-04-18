@@ -3,3 +3,5 @@ Bread
 Cheese
 Cake
 Chocolate
+Popcorn
+Potatoes
